@@ -2,7 +2,7 @@
 
 ![Game Play](/img/snake-game.gif)
 
-##Develop an HTML5 Snake Game## with the below specifications:
+**HTML5 Snake Game** specifications:
 
  - The snake can be controlled by arros.
  - Snake food will be placed randomly on screen.
@@ -15,7 +15,7 @@
  - A "Play Again" buttom should appear once the game is over.
  - In the subsequent games, if the score is greater than previous score, change the color of the score.
 
-##To get bonus points:## implement a special food with the following properties:
+**Bonus points** special food with the following properties:
 
  - Eating special food gains 9 points and elongates the snake's length by 2 units.
  - It can be of any shape other than a square.
